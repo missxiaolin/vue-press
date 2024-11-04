@@ -1,5 +1,5 @@
 import comp from "/Users/xiaolin/web/vue-press-blog/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"小林知识库\",\"lang\":\"en-US\",\"frontmatter\":{\"home\":true,\"title\":\"小林知识库\",\"heroImage\":\"/logo.png\",\"actions\":null,\"footer\":null},\"headers\":[],\"git\":{\"updatedTime\":1730686020000,\"contributors\":[{\"name\":\"missxiaolin\",\"email\":\"462441355@qq.com\",\"commits\":1}]},\"filePathRelative\":\"README.md\"}")
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"小林知识库\",\"lang\":\"en-US\",\"frontmatter\":{\"home\":true,\"title\":\"小林知识库\",\"heroImage\":\"/logo.png\",\"actions\":null,\"footer\":null},\"headers\":[],\"git\":{\"updatedTime\":1730687507000,\"contributors\":[{\"name\":\"missxiaolin\",\"email\":\"462441355@qq.com\",\"commits\":2}]},\"filePathRelative\":\"README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
